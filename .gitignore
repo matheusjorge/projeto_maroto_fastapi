@@ -1,0 +1,8 @@
+fastapi_venv/*
+data/*
+models/*
+__pycache__/*
+**/__pycache__/*
+notebooks/*
+!**/.gitkeep
+
